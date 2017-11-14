@@ -6,7 +6,7 @@ If you have any questions or comments, please contact:
 
 * Graham - gdb2 at st-andrews.ac.uk
 * David - db88 at st-andrews.ac.uk
-* Tiffany - tiffany.harte at physics.ox.ac.uk
+* Tiffany - th558 at cam.ac.uk
 
 We also welcome any comments and suggestions that will help us improve either the code or documentation.
 
